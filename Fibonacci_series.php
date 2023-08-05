@@ -12,5 +12,6 @@ while ($num < 10 )
     echo $n3.' ';  
     $n1 = $n2;  
     $n2 = $n3;  
-    $num = $num + 1;  
+    $num = $num + 1; 
+} 
 ?>  
