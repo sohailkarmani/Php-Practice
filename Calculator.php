@@ -7,6 +7,8 @@ $this->SecondNumber = $Value2;
 }
 public function Addition() {
 return $this->FirstNumber + $this->SecondNumber;
+
+  
 }
 public function Subtraction() {
 return $this->FirstNumber - $this->SecondNumber;
